@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.10.15/miui_CEPHEUS_20.10.15_d63ab0b1b4_10.0.zip
+  ROM_URL: http://bigota.d.miui.com/V12.0.4.0.QFACNXM/miui_CEPHEUS_V12.0.4.0.QFACNXM_7a7f45fb4a_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
